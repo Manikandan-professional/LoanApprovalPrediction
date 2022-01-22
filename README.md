@@ -1,5 +1,5 @@
 # LoanApprovalPrediction
-
+![image](https://user-images.githubusercontent.com/86043615/150633420-30b4c322-ff5d-4f83-9ba2-ff11fc03e060.png)
 # Problem Statement:
 # About Company
 Dream Housing Finance company deals in all home loans. They have presence across all urban, semi urban and rural areas. Customer first apply for home loan after that company validates the customer eligibility for loan.
