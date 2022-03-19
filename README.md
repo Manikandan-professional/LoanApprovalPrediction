@@ -22,4 +22,4 @@ Loan_Amount_Term	Term of loan in months
 Credit_History	credit history meets guidelines
 Property_Area	Urban/ Semi Urban/ Rural
 Loan_Status	Loan approved (Y/N)
-This app has also the end to end product which basically takes all the necessary inputs from the user to identify whether the loan application will be rejected or approved
+This app has also the end to end product which basically takes all the necessary inputs from the user to identify whether the loan application will be rejected or approved.
