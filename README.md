@@ -2,7 +2,9 @@
 ![image](https://user-images.githubusercontent.com/86043615/150633420-30b4c322-ff5d-4f83-9ba2-ff11fc03e060.png)
 # Problem Statement:
 # About Company
-Dream Housing Finance company deals in all home loans. They have presence across all urban, semi urban and rural areas. Customer first apply for home loan after that company validates the customer eligibility for loan.
+1. Dream Housing Finance company deals in all home loans. 
+2. They have presence across all urban, semi urban and rural areas. 
+3. Customer first apply for home loan after that company validates the customer eligibility for loan.
 
 # Problem
 Company wants to automate the loan eligibility process (real time) based on customer detail provided while filling online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. To automate this process, they have given a problem to identify the customers segments, those are eligible for loan amount so that they can specifically target these customers. Here they have provided a partial data set.
